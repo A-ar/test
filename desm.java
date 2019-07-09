@@ -1,3 +1,3 @@
 class rekt {
-    int changed=99;
+    cre1
 }
